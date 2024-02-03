@@ -36,6 +36,16 @@
 <br/>
 <br/>
 
+## 2. PL/pgSQL 공통 관리
+
+### 1. 로깅 관리
+
+- 참고 파일 : plpgsql_default_format.sql
+
+<br/>
+<br/>
+<br/>
+
 ## 2. PL/pgSQL 프로시저(Stored Procedure) 관리
 
 ### 1. 프로시저 기본 format
